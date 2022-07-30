@@ -32,9 +32,9 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
 global.vcardowner = ['+380944814219'] //ur owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" //ur owner name
+global.ownername = "🍁අතිගරු ස්‍යිබර් සෝල්🍁❯❯" //ur owner name
 global.ytname = "" //ur yt chanel name
-global.socialm = "GitHub: prabhasha2006" //ur github or insta name
+global.socialm = "GitHub: radavabandara" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot body 
@@ -44,16 +44,16 @@ global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in 
 
 global.callblock === "false" // call block "true" / "false" (CALL ගන්න අය block කිරීමට "true")
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //ur tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
-global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
+global.owner = ['+94701358330']
+global.ownertag = '+94701358330' //ur tag number
+global.botname = 'ꪶ𝐂𝐘𝐁𝜩𝐑 𝐒𝐎𝐔𝐋ቾꫂ - 𝘉𝘖𝘛' //ur bot name
+global.packname = "soul Sticker" // sticker packname
+global.author = "අතිගරු සයිබර් සෝල්" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-MD ]' //In list menu
+global.footer = '[ 🍁◉අතිගරු සයිබර් සෝල්🍁 ]' //In list menu
 
-global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
+global.button = '☰ TIKTOK ☰' //Costomize A Button Name In Alive Message
+global.btnurl = 'https://vt.tiktok.com/ZSRYVtRfB/?k=1' //Change Your Button's URL
 
 //damtabase
 global.premium = ['+380944814219'] //ur premium numbers
@@ -84,12 +84,12 @@ global.sp = '💠'
 global.mess = {
     success: 'Done ✅',
     admin: 'Only Admins can use it!😉',
-    botAdmin: 'Bot wants to be an Admin😥',
+    botAdmin: 'ඇඩ්මින් දීප්ම්😥',
     owner: 'Only Owner can use this!😉',
     group: 'Feature Used Only For Groups!',
     private: 'This Features Only For Private Chat!',
     bot: 'This Feature Is Only For Bot😝',
-    wait: '👉👈Pleas Wait...',
+    wait: '👉🍁👈ටික්ක් ඉදප්ම්...',
     error: 'Error!!! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     linkm: 'Where is the link?',
