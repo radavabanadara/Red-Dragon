@@ -11,10 +11,7 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤ලීලයි කමලයි චම්පයි රේඛයි
-📤භානුමතියි නයනයි සඳරේකයි
-📤වැඩ කරනා වට්සැප් බොට් මේකයි
-📤මේ බොට් නම් නිතරම අවිවේකයි` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `🙂❤️හායි කෝමද වට්ස්ඇප් බොට් ඔන්ලයින් 🍁අතිගරු_සයිබර්_සෝල්🍁තුමාන්න්ගේ පනිවිඩයකි🙂❤️` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -49,7 +46,7 @@ global.ownertag = '+94701358330' //ur tag number
 global.botname = 'ꪶ𝐂𝐘𝐁𝜩𝐑 𝐒𝐎𝐔𝐋ቾꫂ - 𝘉𝘖𝘛' //ur bot name
 global.packname = "soul Sticker" // sticker packname
 global.author = "අතිගරු සයිබර් සෝල්" // sticker author
-global.dragonemoji = '🧩' // Menu emoji
+global.dragonemoji = '❤️🍁' // Menu emoji
 global.footer = '[ 🍁◉අතිගරු සයිබර් සෝල්🍁 ]' //In list menu
 
 global.button = '☰ TIKTOK ☰' //Costomize A Button Name In Alive Message
